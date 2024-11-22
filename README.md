@@ -1,1 +1,1 @@
-Proteto IaC Terraform.
+Projeto IaC Terraform.
